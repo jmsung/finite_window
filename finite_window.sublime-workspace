@@ -11,7 +11,7 @@
 			"file": "finite_window/finite_window/config.py",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 493,
 				"line_ending": "Unix"
 			}
 		},
@@ -19,40 +19,36 @@
 			"file": "data/README.md",
 			"settings":
 			{
-				"buffer_size": 333,
+				"buffer_size": 233,
 				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "# Information\n\n* slide1\n\n\n\n\n* Sample: 1066-SNAP-Cy3 diluted by 1000 (final)\n* Filament: Axoneme-488\n* Buffer: \n\t* DAB-origami (HEPES pH 7.4, 1 mM EGTA, 1 mM DTT, 10 mM Mg) \n\t* High salt (50 mM K-Ac2), Low (10 mM K-Ac2), or No salt.  \n* Flatfield correction\n* Nucleotide:\n\t* 10 uM ATP in the background  \n\t* 1 mM ATP, 1 mM ATPrS, or 1 mM ADP\n* Interval: 0, 0.2s, 1s, 5s\n",
+			"file": "data/19-06-17_1067/README.MD",
+			"file_size": 356,
+			"file_write_time": 132026039711247823,
+			"settings":
+			{
+				"buffer_size": 369,
+				"line_ending": "Unix",
+				"name": "# Information"
+			}
+		},
+		{
+			"file": "/home/jmsung/Dropbox/projects/apc/apc/apc/config.py",
+			"settings":
+			{
+				"buffer_size": 578,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/home/jmsung/Dropbox/projects/apc/APC/APC/__init__.py",
+			"file": "README.md",
 			"settings":
 			{
-				"buffer_size": 0,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/jmsung/Dropbox/projects/apc/APC/setup.py",
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/jmsung/Dropbox/projects/apc/APC/APC/config.py",
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/jmsung/Dropbox/projects/apc/APC/APC/my_funcs.py",
-			"settings":
-			{
-				"buffer_size": 0,
+				"buffer_size": 229,
 				"line_ending": "Unix"
 			}
 		},
@@ -60,7 +56,7 @@
 			"file": "finite_window/finite_window/custom_funcs.py",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 329,
 				"line_ending": "Unix"
 			}
 		}
@@ -103,19 +99,20 @@
 	],
 	"file_history":
 	[
+		"/home/jmsung/Dropbox/projects/apc/APC/APC/my_funcs.py",
+		"/home/jmsung/Dropbox/projects/apc/APC/APC/config.py",
+		"/home/jmsung/Dropbox/projects/apc/APC/setup.py",
+		"/home/jmsung/Dropbox/projects/apc/APC/APC/__init__.py",
+		"/home/jmsung/Dropbox/projects/finite_window/.gitignore",
 		"/home/jmsung/Dropbox/projects/apc/notebooks/01-APC.ipynb",
 		"/home/jmsung/Dropbox/projects/finite_window/README.md",
 		"/home/jmsung/Dropbox/projects/project_template/README.md",
-		"/home/jmsung/Dropbox/projects/finite_window/.gitignore",
 		"/home/jmsung/Dropbox/projects/finite_window/finite_window.sublime-project",
 		"/home/jmsung/Dropbox/projects/finite_window/finite_window/finite_window/__init__.py",
 		"/home/jmsung/Dropbox/projects/finite_window/finite_window/finite_window/custom_funcs.py",
 		"/home/jmsung/Dropbox/projects/finite_window/finite_window/finite_window/config.py",
 		"/home/jmsung/Dropbox/projects/pymc/README.md",
-		"/home/jmsung/Dropbox/projects/apc/APC/APC/my_funcs.py",
-		"/home/jmsung/Dropbox/projects/apc/APC/APC/config.py",
 		"/home/jmsung/Dropbox/projects/apc/APC/APC/test_my_funcs.py",
-		"/home/jmsung/Dropbox/projects/apc/APC/setup.py",
 		"/home/jmsung/.autoenv/activate.sh",
 		"/home/jmsung/Dropbox/projects/trap_analysis/environment.yml",
 		"/home/jmsung/Dropbox/projects/pymc/environment.yml",
@@ -179,7 +176,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 3,
 			"sheets":
 			[
 				{
@@ -188,7 +185,7 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 493,
 						"regions":
 						{
 						},
@@ -207,7 +204,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
@@ -216,15 +213,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 333,
+						"buffer_size": 233,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								44,
-								44
+								159,
+								159
 							]
 						],
 						"settings":
@@ -235,16 +232,45 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": "/home/jmsung/Dropbox/projects/apc/APC/APC/__init__.py",
+					"file": "data/19-06-17_1067/README.MD",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 369,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								24,
+								24
+							]
+						],
+						"settings":
+						{
+							"auto_name": "# Information",
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/jmsung/Dropbox/projects/apc/apc/apc/config.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 578,
 						"regions":
 						{
 						},
@@ -258,6 +284,34 @@
 						"settings":
 						{
 							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "README.md",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 229,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								135,
+								135
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -267,40 +321,12 @@
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "/home/jmsung/Dropbox/projects/apc/APC/setup.py",
+					"buffer": 5,
+					"file": "finite_window/finite_window/custom_funcs.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "/home/jmsung/Dropbox/projects/apc/APC/APC/config.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 0,
+						"buffer_size": 329,
 						"regions":
 						{
 						},
@@ -320,64 +346,6 @@
 						"zoom_level": 1.0
 					},
 					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "/home/jmsung/Dropbox/projects/apc/APC/APC/my_funcs.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "finite_window/finite_window/custom_funcs.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
 					"type": "text"
 				}
 			]
